@@ -1,0 +1,7 @@
+1. Run createdb.sql
+
+2. Compile and Run 
+
+For MainWindow.java and SpatialObject.Java files.
+
+Put ojdbc6(1).jar,sdoapi.jar,sdonm.jar,sdoutl.jar,sdovis3d.jar files in the java build path while compiling the program. 
